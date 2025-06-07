@@ -1,0 +1,47 @@
+1) Qual é a definição correta para o elemento conhecido como Sprite?
+Resposta: Conjunto de imagens 2D em forma de ladrilhos em um arquivo único, usados para sequenciamento de animações.
+
+2) O uso de arquivos de áudio em LUA permite personalizar quais tipos de interação no jogo?
+Resposta: Efeitos sonoros de ações do personagem e inimigos.
+
+3) Qual o papel do algoritmo de animação em jogos, conforme descrito no material?
+Resposta: Ser responsável pela dinâmica do jogo, semelhante a uma fita de filme.
+
+4) Na manipulação de áudio qual é a opção de configuração ideal para efeitos sonoros a ser definida na carga do áudio?
+Resposta: Static
+
+5) Para que são utilizados os Sprites no desenvolvimento de jogos?
+Resposta: Para sequenciamento de poses de personagens.
+
+6) A manipulação da propriedade Pitch permite controlar qual parâmetro de um áudio?
+Resposta: Frequência
+
+7) O que o conceito de 'Mapeamento com Sprites' permite criar?
+Resposta: O mundo virtual, incluindo cenários fixos, variáveis ou aleatórios.
+
+8) O que significa a aplicação do mapeamento para 'colisão de caminho'?
+Resposta: Permitir controlar onde um personagem pode caminhar ou não.
+
+9) Como a sequência de animação de um personagem é organizada ao usar Sprites?
+Resposta: Através de uma grade invisível com tamanhos quadrados.
+
+10) Em um 'Mundo Fixo' no mapeamento com Sprites, qual a característica principal?
+Resposta: O mundo tem um tamanho que não se altera (mapa = visão).
+
+11) O que é um 'Quad' na manipulação de Sprites?
+Resposta: Um elemento que representa uma sub-imagem, selecionado por coordenadas de textura.
+
+12) Qual tipo de personagem também pode se beneficiar do mapeamento, de acordo com o apresentado em aula?
+Resposta: Personagens que interagem com o ambiente do mundo virtual.
+
+13) Qual a principal característica de um 'Quadro' (Quad) ou ladrilho em Sprites, em relação à percepção visual?
+Resposta: Sua troca rápida torna a mudança imperceptível ao olho humano.
+
+14) Como é gerado um 'Mundo Aleatório' no mapeamento com Sprites?
+Resposta: É gerado randomicamente pela Inteligência Artificial (IA) do jogo.
+
+15) Qual das seguintes opções descreve melhor a função dos Sprites em relação ao movimento de um personagem?
+Resposta: São imagens que representam os estágios de um movimento.
+
+16) Além do design gráfico do Mundo Virtual, para que mais o mapeamento pode ser usado?
+Resposta: Para controlar o mecanismo de colisão de caminho.
